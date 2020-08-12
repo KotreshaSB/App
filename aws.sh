@@ -6,3 +6,4 @@ aws ec2 run-instances \
     --associate-public-ip-address \
     --key-name EC2 \
     --region us-east-1
+	ssh ubuntu@localhost
