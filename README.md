@@ -1,3 +1,2 @@
 # App
-hi kootresh
-ldlsmld
+poo
